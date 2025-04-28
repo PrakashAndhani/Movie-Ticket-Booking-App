@@ -1,0 +1,11 @@
+{
+  "app_title": "ફિલ્મી મજા",
+  "hello": "હેલો {name}",
+  "welcome": "સ્વાગત છે",
+  "top_trending": "ટોચની ટ્રેન્ડિંગ ફિલ્મો",
+  "book_now": "હમણાં બુક કરો",
+  "screen": "સ્ક્રીન",
+  "total": "કુલ: {amount} રૂ.",
+  "book_ticket": "ટિકિટ બુક કરો",
+  "select_seat": "{movieTitle} માટે બેઠક પસંદ કરો"
+}

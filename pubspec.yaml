@@ -1,0 +1,45 @@
+name: application
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.6.1 <4.0.0'  # Ensure proper SDK constraints
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^5.0.0  # Latest version of carousel_slider
+  cupertino_icons: ^1.0.8  # Latest version of cupertino_icons
+  firebase_auth: ^5.5.1
+  google_sign_in: ^6.3.0
+  shared_preferences: ^2.5.2
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0  # Latest version of flutter_lints
+  flutter_launcher_icons: ^0.14.3  # Added flutter_launcher_icons
+
+flutter:
+  uses-material-design: true
+  generate: true  # ✅ Correct indentation
+
+  assets:
+    - images/  # Ensure correct path for assets
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "images/applogooo.png"  # Ensure this path is correct
+
+flutter_intl:
+  enabled: true
+  arb-dir: lib/l10n
+  template-arb-file: app_en.arb
+  output-localization-file: app_localizations.dart

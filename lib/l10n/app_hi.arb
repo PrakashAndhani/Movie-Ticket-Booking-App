@@ -1,0 +1,11 @@
+{
+  "app_title": "फिल्मी मज़ा",
+  "hello": "नमस्ते {name}",
+  "welcome": "स्वागत है",
+  "top_trending": "शीर्ष ट्रेंडिंग फिल्में",
+  "book_now": "अभी बुक करें",
+  "screen": "स्क्रीन",
+  "total": "कुल: {amount} रु.",
+  "book_ticket": "टिकट बुक करें",
+  "select_seat": "{movieTitle} के लिए सीट चुनें"
+}

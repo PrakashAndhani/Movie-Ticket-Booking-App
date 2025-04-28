@@ -1,0 +1,11 @@
+{
+  "app_title": "Filmy Fun",
+  "hello": "Hello {name}",
+  "welcome": "Welcome to",
+  "top_trending": "Top Trending Movies",
+  "book_now": "Book Now",
+  "screen": "SCREEN",
+  "total": "Total: {amount} Rs.",
+  "book_ticket": "Book Ticket",
+  "select_seat": "Select seat - {movieTitle}"
+}
